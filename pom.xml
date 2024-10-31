@@ -67,12 +67,6 @@
 						<builder>dashaun/builder:tiny</builder>
 						<publish>false</publish>
 					</image>
-					<docker>
-						<publishRegistry>
-							<username>rdshinde</username>
-							<password>dckr_pat_nGQOYSMExGnQGkUhuPatwZE1MC4</password>
-						</publishRegistry>
-					</docker>
 				</configuration>
 			</plugin>
 		</plugins>
